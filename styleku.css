@@ -299,11 +299,6 @@ footer p{
   background-color: #00acee;
   transition-duration: .3s;
 }
-/* gmail*/
-.containerThree:hover {
-  background-color: #fb2828;
-  transition-duration: .3s;
-}
 /* Whatsapp*/
 .containerFour:hover {
   background-color: #0c8565;
